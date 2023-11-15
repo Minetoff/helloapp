@@ -6,7 +6,7 @@ namespace HelloApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
         }
         
         static void GreetWhite()
