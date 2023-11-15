@@ -8,5 +8,10 @@ namespace HelloApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("hello");
         }
+        
+        static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
