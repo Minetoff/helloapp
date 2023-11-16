@@ -13,5 +13,10 @@ namespace HelloApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("hello white");
         }
+        
+        static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
+        }
     }
 }
